@@ -1,284 +1,294 @@
 <!--
-  ╔══════════════════════════════════════════════════════════════════╗
-  ║  PRANJAL GUPTA · GITHUB README                                   ║
-  ║  Replace all <PLACEHOLDER> tokens before pushing.                ║
-  ║  Placeholders:                                                   ║
-  ║    <GITHUB_USERNAME>   e.g. pranjalgupta                         ║
-  ║    <LINKEDIN_URL>      full https URL                            ║
-  ║    <PORTFOLIO_URL>     full https URL                            ║
-  ║    <EMAIL>             you@domain.com                            ║
-  ║    <TWITTER_HANDLE>    without the @                             ║
-  ║    <PROJECT_*_REPO>    repo URL                                  ║
-  ║    <PROJECT_*_DEMO>    live demo URL                             ║
-  ╚══════════════════════════════════════════════════════════════════╝
+╭──────────────────────────────────────────────────────────────────╮
+│  PRANJAL GUPTA · README  ·  v2 "dossier"                         │
+│  Replace <PLACEHOLDER> tokens before pushing.                    │
+│    <GH>            github username         <EMAIL>               │
+│    <LINKEDIN_URL>  full URL                <PORTFOLIO_URL>       │
+│    <TWITTER>       handle w/o @            <LEETCODE>            │
+│    <PROJECT_n_REPO> / <PROJECT_n_DEMO>                           │
+╰──────────────────────────────────────────────────────────────────╯
 -->
 
-<!-- ══════════════ HERO · animated typing terminal ══════════════ -->
-<div align="center">
-
-<a href="https://github.com/<GITHUB_USERNAME>">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=220&section=header&text=Pranjal%20Gupta&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=Building%20intelligent,%20elegant%20software&descSize=17&descAlignY=60&animation=fadeIn" alt="header" />
-</a>
-
-<a href="https://github.com/<GITHUB_USERNAME>">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=780&lines=Software+Engineering+Student+%40+VIT;Full-Stack+Developer+%C2%B7+MERN+%2B+Next.js;AI+Enthusiast+%C2%B7+ML+%2F+LLM+Applications;Competitive+Programmer+%C2%B7+DSA+in+C%2B%2B;Turning+coffee+into+production+code+%E2%98%95" alt="typing" />
-</a>
-
+<!-- ═══════════ 01 · DOSSIER HEADER ═══════════ -->
+<div align="right">
+  <sub>
+    <code>~/dossier/pranjal.gupta</code> ·
+    <a href="<PORTFOLIO_URL>">portfolio</a> ·
+    <a href="<LINKEDIN_URL>">linkedin</a> ·
+    <a href="mailto:<EMAIL>">mail</a>
+  </sub>
 </div>
 
-<!-- ══════════════ QUICK LINKS · pill row ══════════════ -->
-<div align="center">
+```ansi
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║   P R A N J A L   G U P T A                                               ║
+║   ─────────────────────────                                               ║
+║   software engineering student · full-stack · ai/ml · competitive coder   ║
+║                                                                           ║
+║   [ status ]   online · shipping                                          ║
+║   [ stack  ]   MERN · Next.js · Python · C++                              ║
+║   [ signal ]   building products that feel inevitable                     ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+```
 
-<a href="<PORTFOLIO_URL>"><img src="https://img.shields.io/badge/-Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="<LINKEDIN_URL>"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:<EMAIL>"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://twitter.com/<TWITTER_HANDLE>"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://leetcode.com/<GITHUB_USERNAME>"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<a href="https://github.com/<GITHUB_USERNAME>?tab=followers"><img src="https://img.shields.io/github/followers/<GITHUB_USERNAME>?label=Follow&style=for-the-badge&color=8B5CF6&labelColor=1a1a1a&logo=github" /></a>
+<!-- ═══════════ 02 · TL;DR STRIP ═══════════ -->
 
-</div>
+> **TL;DR** — I turn coffee, curiosity and edge-cases into full-stack products.
+> Currently obsessed with the seam between *classical software engineering* and *language models*.
+> If it can be automated, abstracted, or made 40 ms faster — I want in.
+
+---
+
+<!-- ═══════════ 03 · WHOAMI · two-column ═══════════ -->
+
+### `> whoami --verbose`
+
+<table>
+<tr><td width="55%" valign="top">
+
+```toml
+[identity]
+name       = "Pranjal Gupta"
+role       = "SWE Student · Full-Stack · AI Builder"
+based_in   = "India"
+pronouns   = "he/him"
+
+[currently]
+learning   = ["Rust", "Distributed Systems", "LangGraph"]
+building   = "AI-native web products (MERN + LLMs)"
+grinding   = "LeetCode + system design"
+reading    = "Designing Data-Intensive Applications"
+
+[ethos]
+motto      = "ship small, ship often, ship quality"
+opinion    = "types are documentation that lies less"
+weakness   = "over-engineering side projects at 2am"
+```
+
+</td><td width="45%" valign="top">
+
+**Currently exploring** &nbsp;·&nbsp; the intersection below
+
+```mermaid
+%%{init:{'theme':'base','themeVariables':{
+  'primaryColor':'#0b0f14','primaryTextColor':'#e6edf3',
+  'primaryBorderColor':'#22d3ee','lineColor':'#22d3ee',
+  'fontFamily':'ui-monospace'}}}%%
+flowchart LR
+  A([ Web ]) --- C(( Me ))
+  B([ AI  ]) --- C
+  D([ DSA ]) --- C
+  C --> P[[ Products ]]
+```
+
+<sub>rendered natively by GitHub · no external images</sub>
+
+</td></tr>
+</table>
+
+---
+
+<!-- ═══════════ 04 · TECH STACK · custom pills, not skillicons ═══════════ -->
+
+### `> cat stack.json`
+
+<sub>a curated set — not everything I've touched, just what I actually reach for.</sub>
+
+**Languages**  
+![C++](https://img.shields.io/badge/C%2B%2B-000000?style=flat-square&logo=cplusplus&logoColor=22d3ee&labelColor=0b0f14)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=22d3ee&labelColor=0b0f14)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=22d3ee&labelColor=0b0f14)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=22d3ee&labelColor=0b0f14)
+![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=22d3ee&labelColor=0b0f14)
+![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=22d3ee&labelColor=0b0f14)
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=f472b6&labelColor=0b0f14)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=f472b6&labelColor=0b0f14)
+![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=f472b6&labelColor=0b0f14)
+![Redux](https://img.shields.io/badge/Redux-000000?style=flat-square&logo=redux&logoColor=f472b6&labelColor=0b0f14)
+![Framer_Motion](https://img.shields.io/badge/Framer_Motion-000000?style=flat-square&logo=framer&logoColor=f472b6&labelColor=0b0f14)
+
+**Backend & Data**  
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=a3e635&labelColor=0b0f14)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=a3e635&labelColor=0b0f14)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=a3e635&labelColor=0b0f14)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=a3e635&labelColor=0b0f14)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=a3e635&labelColor=0b0f14)
+![Redis](https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=a3e635&labelColor=0b0f14)
+![Prisma](https://img.shields.io/badge/Prisma-000000?style=flat-square&logo=prisma&logoColor=a3e635&labelColor=0b0f14)
+
+**AI / ML**  
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch&logoColor=fb923c&labelColor=0b0f14)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=fb923c&labelColor=0b0f14)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=fb923c&labelColor=0b0f14)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=fb923c&labelColor=0b0f14)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-000000?style=flat-square&logo=huggingface&logoColor=fb923c&labelColor=0b0f14)
+
+**Platform**  
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=c084fc&labelColor=0b0f14)
+![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonwebservices&logoColor=c084fc&labelColor=0b0f14)
+![GitHub_Actions](https://img.shields.io/badge/GH_Actions-000000?style=flat-square&logo=githubactions&logoColor=c084fc&labelColor=0b0f14)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=c084fc&labelColor=0b0f14)
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=c084fc&labelColor=0b0f14)
+
+---
+
+<!-- ═══════════ 05 · CURRENT FOCUS · mermaid gantt ═══════════ -->
+
+### `> cat roadmap.q1`
+
+```mermaid
+%%{init:{'theme':'base','themeVariables':{
+  'primaryColor':'#0b0f14','primaryTextColor':'#e6edf3',
+  'sectionBkgColor':'#0b0f14','altSectionBkgColor':'#111827',
+  'gridColor':'#1f2937','fontFamily':'ui-monospace'}}}%%
+gantt
+  title  in-flight · next 12 weeks
+  dateFormat  YYYY-MM-DD
+  axisFormat  wk %V
+  section ship
+    NeuroNotes v2 (RAG + agents) :active, a1, 2026-07-14, 28d
+    Portfolio redesign           :        a2, 2026-08-01, 14d
+  section learn
+    Rust · ownership → async     :active, b1, 2026-07-14, 35d
+    System design (Alex Xu vol.2):        b2, 2026-08-05, 30d
+  section grind
+    LeetCode daily streak        :active, c1, 2026-07-14, 84d
+    Codeforces div.2             :        c2, 2026-07-21, 60d
+```
+
+---
+
+<!-- ═══════════ 06 · GITHUB SIGNAL · monochrome tokyonight ═══════════ -->
+
+### `> git log --stat --author=me`
+
+<a href="https://github.com/<GH>">
+  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=<GH>&show_icons=true&count_private=true&hide_border=true&hide_title=true&card_width=440&bg_color=0b0f14&title_color=22d3ee&icon_color=f472b6&text_color=e6edf3&ring_color=22d3ee" />
+  <img align="center" height="170" src="https://github-readme-streak-stats.herokuapp.com?user=<GH>&hide_border=true&background=0b0f14&stroke=1f2937&ring=22d3ee&fire=f472b6&currStreakLabel=22d3ee&sideLabels=e6edf3&currStreakNum=e6edf3&sideNums=e6edf3&dates=94a3b8" />
+</a>
+
+<a href="https://github.com/<GH>">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=<GH>&theme=github_dark" width="100%" />
+</a>
+
+<a href="https://github.com/<GH>">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=<GH>&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=<GH>&theme=github_dark&utcOffset=5.5" />
+</a>
+
+<!-- activity graph in same palette -->
+<a href="https://github.com/<GH>">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=<GH>&bg_color=0b0f14&color=22d3ee&line=f472b6&point=ffffff&area=true&area_color=22d3ee&hide_border=true&custom_title=commit%20frequency%20·%20last%2031%20days" width="100%" />
+</a>
+
+---
+
+<!-- ═══════════ 07 · PROJECTS · dossier cards inside details ═══════════ -->
+
+### `> ls -lah projects/ | head -5`
+
+<details open>
+<summary><b>&nbsp;&nbsp;🧠 &nbsp;<code>neuronotes</code> &nbsp;·&nbsp; AI study companion &nbsp;<sub>next · mongo · rag</sub></b></summary>
+<br />
+<blockquote>
+Turns messy lecture PDFs into flashcards, mind-maps and Socratic quizzes.
+Vector search over your own notes; no data leaves the workspace.
+<br /><br />
+<a href="<PROJECT_1_DEMO>"><img src="https://img.shields.io/badge/live-22d3ee?style=flat-square&logo=vercel&logoColor=0b0f14&labelColor=0b0f14"/></a>
+<a href="<PROJECT_1_REPO>"><img src="https://img.shields.io/badge/code-e6edf3?style=flat-square&logo=github&logoColor=0b0f14&labelColor=0b0f14"/></a>
+</blockquote>
+</details>
+
+<details>
+<summary><b>&nbsp;&nbsp;💬 &nbsp;<code>chatverse</code> &nbsp;·&nbsp; realtime chat platform &nbsp;<sub>socket.io · redis · pg</sub></b></summary>
+<br />
+<blockquote>
+Slack-style workspaces with channels, threads and presence over WebSockets.
+Redis pub/sub fanout; message search backed by Postgres full-text.
+<br /><br />
+<a href="<PROJECT_2_DEMO>"><img src="https://img.shields.io/badge/live-22d3ee?style=flat-square&logo=vercel&logoColor=0b0f14&labelColor=0b0f14"/></a>
+<a href="<PROJECT_2_REPO>"><img src="https://img.shields.io/badge/code-e6edf3?style=flat-square&logo=github&logoColor=0b0f14&labelColor=0b0f14"/></a>
+</blockquote>
+</details>
+
+<details>
+<summary><b>&nbsp;&nbsp;📈 &nbsp;<code>stackpulse</code> &nbsp;·&nbsp; developer analytics &nbsp;<sub>next · ts · prisma</sub></b></summary>
+<br />
+<blockquote>
+Aggregates GitHub, LeetCode and Codeforces into one dashboard with
+contribution heatmaps and streak forecasts.
+<br /><br />
+<a href="<PROJECT_3_DEMO>"><img src="https://img.shields.io/badge/live-22d3ee?style=flat-square&logo=vercel&logoColor=0b0f14&labelColor=0b0f14"/></a>
+<a href="<PROJECT_3_REPO>"><img src="https://img.shields.io/badge/code-e6edf3?style=flat-square&logo=github&logoColor=0b0f14&labelColor=0b0f14"/></a>
+</blockquote>
+</details>
+
+<details>
+<summary><b>&nbsp;&nbsp;🛒 &nbsp;<code>kartify</code> &nbsp;·&nbsp; production e-commerce &nbsp;<sub>mern · stripe</sub></b></summary>
+<br />
+<blockquote>
+End-to-end store — Stripe payments, admin panel, order tracking, JWT auth,
+Cloudinary media pipeline.
+<br /><br />
+<a href="<PROJECT_4_DEMO>"><img src="https://img.shields.io/badge/live-22d3ee?style=flat-square&logo=vercel&logoColor=0b0f14&labelColor=0b0f14"/></a>
+<a href="<PROJECT_4_REPO>"><img src="https://img.shields.io/badge/code-e6edf3?style=flat-square&logo=github&logoColor=0b0f14&labelColor=0b0f14"/></a>
+</blockquote>
+</details>
 
 <br />
 
-<!-- ══════════════ WHOAMI · terminal card ══════════════ -->
-<table align="center" width="100%">
-<tr>
-<td width="62%" valign="top">
+<a href="https://github.com/<GH>?tab=repositories">
+  <img src="https://img.shields.io/badge/→_all_repositories-0b0f14?style=for-the-badge&logo=github&logoColor=e6edf3&labelColor=22d3ee" />
+</a>
+
+---
+
+<!-- ═══════════ 08 · CONTRIBUTION SNAKE (kept, retheme) ═══════════ -->
+
+### `> snake --eat contributions`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/<GH>/<GH>/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/<GH>/<GH>/output/github-snake.svg" />
+  <img alt="snake eating my contributions"
+       src="https://raw.githubusercontent.com/<GH>/<GH>/output/github-snake.svg" />
+</picture>
+
+<sub>Powered by <a href="https://github.com/Platane/snk">Platane/snk</a> · add the workflow to <code>&lt;GH&gt;/&lt;GH&gt;/.github/workflows/snake.yml</code></sub>
+
+---
+
+<!-- ═══════════ 09 · CONNECT · terminal prompt ═══════════ -->
+
+### `> connect --with pranjal`
 
 ```bash
-pranjal@dev:~$ whoami --verbose
-```
-```yaml
-name       : "Pranjal Gupta"
-role       : "Software Engineering Student · Full-Stack Dev"
-location   : "India 🇮🇳"
-focus      : ["MERN", "Next.js", "AI/ML", "System Design"]
-learning   : ["Go", "Rust", "Distributed Systems", "LangChain"]
-building   : "Full-stack products with a splash of AI"
-mission    : "Craft software people actually enjoy using."
-fun_fact   : "I debug faster after chai than after sleep ☕"
-ask_me_about:
-  - "React / Next.js architecture"
-  - "MongoDB schema design"
-  - "LLM apps & vector search"
-  - "Competitive programming in C++"
+$ ssh pranjal@lets.build
+> topics I love : web-perf · ai-ux · dsa · open-source
+> best pings   : mail · linkedin · twitter
+> reply time   : usually < 24h ✦ pacific-of-caffeine
 ```
 
-</td>
-<td width="38%" align="center" valign="top">
+<p>
+  <a href="mailto:<EMAIL>"><img src="https://img.shields.io/badge/mail-0b0f14?style=for-the-badge&logo=gmail&logoColor=22d3ee&labelColor=0b0f14"/></a>
+  <a href="<LINKEDIN_URL>"><img src="https://img.shields.io/badge/linkedin-0b0f14?style=for-the-badge&logo=linkedin&logoColor=22d3ee&labelColor=0b0f14"/></a>
+  <a href="https://twitter.com/<TWITTER>"><img src="https://img.shields.io/badge/twitter-0b0f14?style=for-the-badge&logo=x&logoColor=22d3ee&labelColor=0b0f14"/></a>
+  <a href="<PORTFOLIO_URL>"><img src="https://img.shields.io/badge/portfolio-0b0f14?style=for-the-badge&logo=vercel&logoColor=22d3ee&labelColor=0b0f14"/></a>
+  <a href="https://leetcode.com/<LEETCODE>"><img src="https://img.shields.io/badge/leetcode-0b0f14?style=for-the-badge&logo=leetcode&logoColor=22d3ee&labelColor=0b0f14"/></a>
+</p>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Tarikul-Islam-Anik/main/assets/Rocket.png" width="28" /> &nbsp; **Currently shipping**
+---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="220" alt="coder gif" />
-
-<sub>`git commit -m "one more feature 🚀"`</sub>
-
-</td>
-</tr>
-</table>
-
-<br />
-
-<!-- ══════════════ TECH ARSENAL · categorized ══════════════ -->
-<h2 align="center">🧰 &nbsp;Tech Arsenal</h2>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="120"><b>Languages</b></td>
-<td>
-  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts,html,css" />
-</td>
-</tr>
-<tr>
-<td align="center"><b>Frontend</b></td>
-<td>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite,threejs" />
-</td>
-</tr>
-<tr>
-<td align="center"><b>Backend</b></td>
-<td>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,prisma" />
-</td>
-</tr>
-<tr>
-<td align="center"><b>Database</b></td>
-<td>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,supabase,firebase" />
-</td>
-</tr>
-<tr>
-<td align="center"><b>AI / ML</b></td>
-<td>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,py" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-</td>
-</tr>
-<tr>
-<td align="center"><b>DevOps</b></td>
-<td>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,vercel,nginx,linux" />
-</td>
-</tr>
-<tr>
-<td align="center"><b>Tools</b></td>
-<td>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,notion" />
-</td>
-</tr>
-</table>
-
-</div>
-
-<br />
-
-<!-- ══════════════ GITHUB STATS · triple card row ══════════════ -->
-<h2 align="center">📊 &nbsp;GitHub in Numbers</h2>
-
-<div align="center">
-
-<a href="https://github.com/<GITHUB_USERNAME>">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=<GITHUB_USERNAME>&show_icons=true&count_private=true&hide_border=true&title_color=8B5CF6&icon_color=EC4899&text_color=c9d1d9&bg_color=0d1117" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=<GITHUB_USERNAME>&hide_border=true&background=0d1117&stroke=8B5CF6&ring=EC4899&fire=EC4899&currStreakLabel=8B5CF6&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" />
-</a>
-
-<a href="https://github.com/<GITHUB_USERNAME>">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<GITHUB_USERNAME>&layout=compact&hide_border=true&title_color=8B5CF6&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=<GITHUB_USERNAME>&bg_color=0d1117&color=8B5CF6&line=EC4899&point=ffffff&area=true&hide_border=true" />
-</a>
-
-</div>
-
-<!-- ══════════════ TROPHIES ══════════════ -->
-<h2 align="center">🏆 &nbsp;Trophy Cabinet</h2>
-
-<div align="center">
-  <a href="https://github.com/<GITHUB_USERNAME>">
-    <img src="https://github-profile-trophy.vercel.app/?username=<GITHUB_USERNAME>&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
-  </a>
-</div>
-
-<br />
-
-<!-- ══════════════ FEATURED PROJECTS · card grid ══════════════ -->
-<h2 align="center">🚀 &nbsp;Featured Projects</h2>
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 &nbsp;NeuroNotes — AI Study Companion
-> A MERN + LLM app that turns lecture PDFs into flashcards, mind-maps and quizzes with vector-search recall.
-
-`Next.js` · `MongoDB` · `LangChain` · `OpenAI` · `Pinecone`
-
-<a href="<PROJECT_1_DEMO>"><img src="https://img.shields.io/badge/Live_Demo-EC4899?style=flat-square&logo=vercel&logoColor=white" /></a>
-<a href="<PROJECT_1_REPO>"><img src="https://img.shields.io/badge/Source-6366F1?style=flat-square&logo=github&logoColor=white" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 💬 &nbsp;ChatVerse — Realtime Chat Platform
-> Slack-style workspaces with channels, threads, presence and end-to-end typing indicators over WebSockets.
-
-`React` · `Node.js` · `Socket.IO` · `Redis` · `PostgreSQL`
-
-<a href="<PROJECT_2_DEMO>"><img src="https://img.shields.io/badge/Live_Demo-EC4899?style=flat-square&logo=vercel&logoColor=white" /></a>
-<a href="<PROJECT_2_REPO>"><img src="https://img.shields.io/badge/Source-6366F1?style=flat-square&logo=github&logoColor=white" /></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📈 &nbsp;StackPulse — Dev Analytics Dashboard
-> Aggregates GitHub, LeetCode and Codeforces stats into a single beautiful dashboard with contribution heatmaps.
-
-`Next.js` · `TypeScript` · `Prisma` · `Chart.js`
-
-<a href="<PROJECT_3_DEMO>"><img src="https://img.shields.io/badge/Live_Demo-EC4899?style=flat-square&logo=vercel&logoColor=white" /></a>
-<a href="<PROJECT_3_REPO>"><img src="https://img.shields.io/badge/Source-6366F1?style=flat-square&logo=github&logoColor=white" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🛒 &nbsp;Kartify — Full-Stack E-commerce
-> Production-grade store with Stripe payments, admin panel, order tracking and JWT auth.
-
-`MERN` · `Stripe` · `TailwindCSS` · `Cloudinary`
-
-<a href="<PROJECT_4_DEMO>"><img src="https://img.shields.io/badge/Live_Demo-EC4899?style=flat-square&logo=vercel&logoColor=white" /></a>
-<a href="<PROJECT_4_REPO>"><img src="https://img.shields.io/badge/Source-6366F1?style=flat-square&logo=github&logoColor=white" /></a>
-
-</td>
-</tr>
-</table>
-
-<a href="https://github.com/<GITHUB_USERNAME>?tab=repositories">
-  <img src="https://img.shields.io/badge/→_explore_all_repositories-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=8B5CF6" />
-</a>
-
-</div>
-
-<br />
-
-<!-- ══════════════ CONTRIBUTION SNAKE ══════════════ -->
-<h2 align="center">🐍 &nbsp;Watch My Contributions Get Eaten</h2>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/<GITHUB_USERNAME>/<GITHUB_USERNAME>/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/<GITHUB_USERNAME>/<GITHUB_USERNAME>/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution snake"
-         src="https://raw.githubusercontent.com/<GITHUB_USERNAME>/<GITHUB_USERNAME>/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
-<sub align="center">
-  <p align="center">
-    ⚙️ Generated by the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action ·
-    add the workflow to <code>&lt;GITHUB_USERNAME&gt;/&lt;GITHUB_USERNAME&gt;/.github/workflows/snake.yml</code>
-  </p>
-</sub>
-
-<br />
-
-<!-- ══════════════ CODING STATS · optional wakatime ══════════════ -->
-<h2 align="center">⏱️ &nbsp;This Week I Spent My Time On</h2>
-
-<div align="center">
-
-<!-- Replace with your WakaTime username or delete this block -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=<GITHUB_USERNAME>&hide_border=true&title_color=8B5CF6&text_color=c9d1d9&bg_color=0d1117&layout=compact" />
-
-</div>
-
-<br />
-
-<!-- ══════════════ QUOTE ══════════════ -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
-</div>
-
-<br />
-
-<!-- ══════════════ FOOTER ══════════════ -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:8B5CF6,100:6366F1&height=140&section=footer&text=thanks%20for%20scrolling%20✦&fontSize=22&fontColor=ffffff&fontAlignY=70&animation=twinkling" />
+<!-- ═══════════ 10 · FOOTER ═══════════ -->
 
 <sub>
-  <img src="https://komarev.com/ghpvc/?username=<GITHUB_USERNAME>&label=Profile+views&color=8B5CF6&style=flat" />
-  &nbsp;·&nbsp;
-  <b>Open to internships, collabs and open-source ✦ let's build.</b>
+  <img src="https://komarev.com/ghpvc/?username=<GH>&label=visitors&color=22d3ee&style=flat-square&labelColor=0b0f14" />
+  &nbsp;·&nbsp; open to <b>internships</b>, <b>collaborations</b> and <b>open source</b> &nbsp;·&nbsp;
+  <code>EOF ✦ thanks for reading.</code>
 </sub>
-
-</div>
