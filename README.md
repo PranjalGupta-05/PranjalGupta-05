@@ -1,242 +1,270 @@
-<!-- ================= HEADER ================= -->
+<!-- ============================================================ -->
+<!--                       HEADER / BANNER                        -->
+<!-- ============================================================ -->
 
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Pranjal Gupta
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Pranjal%20Gupta&fontSize=60&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
-### Software Engineering Student • Full Stack Developer • AI Enthusiast
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+intelligent+software+that+matters;Full+Stack+Developer+%7C+MERN+%2B+Java;AI%2FML+%7C+Spring+Boot+%7C+System+Design;Turning+coffee+%E2%98%95+into+code+%F0%9F%92%BB;Always+shipping%2C+always+learning" />
 
-<p>
-Building intelligent software that solves real-world problems.
-</p>
+<br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Artificial+Intelligence+Enthusiast;MERN+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Always+Learning+Something+New" />
+<a href="https://github.com/YOUR_USERNAME?tab=followers">
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=00F7FF&logo=github"/>
+</a>
+<a href="https://YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Portfolio-Visit-00F7FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-Contact-00F7FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=00F7FF&style=for-the-badge"/>
+
+</div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                          WHO AM I                             -->
+<!-- ============================================================ -->
+
+## 🧬 `whoami`
+
+```yaml
+name: Pranjal Gupta
+role: Software Developer
+education: Integrated B.Tech + M.Tech (Artificial Intelligence)
+university: VIT Bhopal University
+mission: "Build software that makes people's lives easier"
+currently_exploring: [System Design, Cloud Architecture, LLM Applications]
+fun_fact: "I debug faster than I make chai ☕"
+```
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 Focus Areas
+- 🧠 AI-powered application development
+- ⚛️ Scalable full-stack architecture
+- ☁️ Cloud-native systems
+- 📊 DSA & competitive programming
+- 🏗️ Clean, maintainable engineering
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Quick Stats
+- 🏅 200+ DSA problems solved
+- ☁️ Microsoft Elevate Azure Intern
+- 💼 Software Developer Intern
+- 🎓 ServiceNow Virtual Intern
+- 🚀 4+ AI/MERN projects shipped
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ============================================================ -->
+<!--                        TECH ARSENAL                           -->
+<!-- ============================================================ -->
+
+## ⚙️ Tech Arsenal
+
+<div align="center">
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,cpp,py,js,ts"/>
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,redux"/>
+
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring"/>
+
+**Database & Cloud**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,azure,docker"/>
+
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma"/>
 
 </div>
 
 ---
 
-# 🚀 Who Am I?
+<!-- ============================================================ -->
+<!--                    FEATURED PROJECTS                          -->
+<!-- ============================================================ -->
 
-```cpp
-class PranjalGupta {
+## 🚀 Featured Builds
 
-public:
+<table>
+<tr>
+<td width="50%">
 
-string education =
-"Integrated B.Tech + M.Tech (Artificial Intelligence)";
+### 🤖 AI Career Copilot
+AI-powered career platform with resume analysis, ATS scoring, job matching, and mock interviews.
 
-string university =
-"VIT Bhopal University";
+`React` `TypeScript` `Node.js` `MongoDB` `AI APIs`
 
-string role =
-"Software Developer";
+✔ Resume Analysis &nbsp; ✔ ATS Score
+✔ Job Matching &nbsp; ✔ AI Mock Interview
 
-vector<string> interests = {
+</td>
+<td width="50%">
 
-"Artificial Intelligence",
-"Full Stack Development",
-"Cloud Computing",
-"System Design",
-"Competitive Programming"
+### 🎨 AI Image Generator
+Full-stack image generation platform with secure auth and integrated payments.
 
-};
+`MERN` `Razorpay` `JWT`
 
-void currentGoal(){
+✔ Prompt-to-Image &nbsp; ✔ Auth & Payments
+✔ Gallery & History
 
-cout<<"Build software that makes people's lives easier.";
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-}
+### 🖥 Smart IT Helpdesk
+Automated helpdesk management system built on ServiceNow with live dashboards.
 
-};
-```
+`ServiceNow` `Flow Designer` `Dashboards`
 
----
+✔ Auto-Ticketing &nbsp; ✔ SLA Tracking
 
-# 💡 What I Do
+</td>
+<td width="50%">
 
-🧠 Build AI-powered applications
+### 🚚 Autonomous Delivery Agent
+Pathfinding simulator comparing search strategies for optimal delivery routes.
 
-⚛️ Develop scalable Full Stack applications
+`BFS` `UCS` `A*`
 
-☁️ Explore Cloud Technologies
+✔ Algorithm Visualizer &nbsp; ✔ Route Optimization
 
-📈 Solve Data Structures & Algorithms problems
-
-🚀 Learn modern software engineering practices every day
-
----
-
-# 🛠 Tech Arsenal
-
-## Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=java,cpp,python,js,ts"/>
-
-</p>
-
-## Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind"/>
-
-</p>
-
-## Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring"/>
-
-</p>
-
-## Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-
-</p>
-
-## Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,azure"/>
-
-</p>
-
----
-
-# 🌟 Featured Projects
-
-## 🤖 AI Career Copilot
-
-> AI-powered career platform
-
-✔ Resume Analysis
-
-✔ ATS Score
-
-✔ Job Matching
-
-✔ AI Mock Interview
-
-✔ Resume Optimization
-
-**Tech**
-
-React • TypeScript • Node.js • MongoDB • Express • AI APIs
-
----
-
-## 🎨 AI Image Generator
-
-Generate stunning AI images with authentication, payments and modern UI.
-
-React • MERN • Razorpay • JWT
-
----
-
-## 🖥 Smart IT Helpdesk
-
-Automated ServiceNow Helpdesk Management System
-
-ServiceNow • Flow Designer • Dashboards
-
----
-
-## 🚚 Autonomous Delivery Agent
-
-AI Pathfinding Simulator
-
-BFS • UCS • A*
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 Achievements
-
-🏅 200+ DSA Problems Solved
-
-☁ Microsoft Elevate Azure Internship
-
-💼 Software Developer Intern
-
-🎓 ServiceNow Virtual Internship
-
-🚀 AI & MERN Projects
-
----
-
-# 📈 Current Focus
-
-```text
-███████████░░░░░░░░░░  React & MERN
-
-████████████████░░░░  Spring Boot
-
-██████████░░░░░░░░░░  System Design
-
-████████████░░░░░░░░  Artificial Intelligence
-
-███████████████░░░░░  Competitive Programming
-```
-
----
-
-# ⚡ Random Developer Quote
-
-> "Code is not just written to run. It's written to be understood, improved, and trusted."
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</p>
-
----
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-### Thanks for visiting 👨‍💻
+*More on my pinned repositories →*
 
-*"Keep Building. Keep Learning. Keep Growing."*
+</div>
+
+---
+
+<!-- ============================================================ -->
+<!--                     GITHUB ANALYTICS                          -->
+<!-- ============================================================ -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+<!-- ============================================================ -->
+<!--                      CONTRIBUTION SNAKE                       -->
+<!-- ============================================================ -->
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" width="100%"/>
+
+<sub>Powered by <code>Platane/snk</code> — auto-generates from your commit graph via a GitHub Action</sub>
+
+</div>
+
+---
+
+<!-- ============================================================ -->
+<!--                       CURRENT FOCUS                           -->
+<!-- ============================================================ -->
+
+<details>
+<summary><b>📈 Current Learning Roadmap (click to expand)</b></summary>
+<br/>
+
+```text
+React & MERN            ███████████████░░░░░  75%
+Spring Boot              █████████████░░░░░░░  65%
+System Design            ██████████░░░░░░░░░░  50%
+Artificial Intelligence  ████████████░░░░░░░░  60%
+Cloud (Azure)            █████████░░░░░░░░░░░  45%
+DSA & CP                 ███████████████░░░░░  75%
+```
+
+</details>
+
+<details>
+<summary><b>🕰️ Experience Timeline (click to expand)</b></summary>
+<br/>
+
+```text
+2024 ─┬─ Software Developer Intern
+      │
+2023 ─┼─ Microsoft Elevate Azure Internship
+      │
+2023 ─┼─ ServiceNow Virtual Internship
+      │
+2022 ─┴─ Started B.Tech + M.Tech in AI @ VIT Bhopal
+```
+
+</details>
+
+---
+
+<!-- ============================================================ -->
+<!--                          QUOTE                                 -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+> *"Code is not just written to run. It's written to be understood, improved, and trusted."*
+
+</div>
+
+---
+
+<!-- ============================================================ -->
+<!--                       LET'S CONNECT                           -->
+<!-- ============================================================ -->
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="YOUR_TWITTER_LINK"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
+
+**Keep Building. Keep Learning. Keep Growing.** 🚀
 
 </div>
