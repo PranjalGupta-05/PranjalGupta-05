@@ -53,7 +53,7 @@ exploring:     System Design · Cloud Architecture · LLM Apps
 
 |  |  |
 |---|---|
-| 🏅 | 200+ DSA problems solved |
+| 🏅 | 250+ DSA problems solved |
 | ☁️ | Microsoft Elevate Azure Intern |
 | 💼 | Software Developer Intern |
 | 🎓 | ServiceNow Virtual Intern |
@@ -186,15 +186,15 @@ Pathfinding simulator comparing search strategies for optimal delivery routes.
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>&nbsp;<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>&nbsp;<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranjalGupta-05&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PranjalGupta-05&theme=tokyonight&hide_border=true" width="48%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="97%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PranjalGupta-05&theme=tokyo-night&hide_border=true" width="97%"/>
 
 </div>
 
@@ -203,7 +203,7 @@ Pathfinding simulator comparing search strategies for optimal delivery routes.
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/PranjalGupta-05/PranjalGupta-05/output/github-contribution-grid-snake.svg" width="100%"/>
 <sub>Auto-generated from the commit graph via a GitHub Action (<code>Platane/snk</code>)</sub>
 </div>
 
@@ -264,9 +264,9 @@ DSA & CP                    ███████████████░░�
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
+<a href="www.linkedin.com/in/pranjal-gupta-55b667327"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="mailto:pranjaljhs2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/PranjalGupta-05"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
 <a href="YOUR_TWITTER_LINK"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 
 <br/><br/>
