@@ -35,7 +35,7 @@
 
 <table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="80%" valign="center">
 
 ```yaml
 name:          Pranjal Gupta
