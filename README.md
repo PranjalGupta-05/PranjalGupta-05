@@ -65,7 +65,7 @@ exploring:  System Design · Cloud Architecture · LLM Apps
 
 ## 🛠 Tech Stack
 
-<table width="100%">
+<table width="100%", valign="top">
 <tr>
 <td width="18%"><b>Languages</b></td>
 <td width="82%">
@@ -184,7 +184,7 @@ Pathfinding simulator comparing search strategies for optimal delivery routes.
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/PranjalGupta-05/PranjalGupta-05/output/github-contribution-grid-snake.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/PranjalGupta-05/output/github-contribution-grid-snake.svg" width="100%"/>
 <sub>Auto-generated from the commit graph via a GitHub Action (<code>Platane/snk</code>)</sub>
 </div>
 
