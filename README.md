@@ -38,7 +38,7 @@
 
 <table width="100%">
 <tr>
-<td width="58%" valign="top">
+<td width="75%" valign="center">
 
 ```yaml
 # whoami --verbose
@@ -184,11 +184,6 @@ Pathfinding simulator comparing search strategies for optimal delivery routes.
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PranjalGupta-05&theme=2077&utcOffset=5.5" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PranjalGupta-05&theme=2077" width="48%"/>
-
-<br/><br/>
-
 <img src="https://github-profile-trophy.vercel.app/?username=PranjalGupta-05&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" width="97%"/>
 
 </div>
@@ -231,13 +226,13 @@ DSA & CP                 ███████████████░░░�
 <br/>
 
 ```text
-2026 ──┬── Software Developer Intern
+2024 ──┬── Software Developer Intern
        │
-2026 ──┼── ServiceNow Virtual Internship
+2023 ──┼── Microsoft Elevate Azure Internship
        │
-2025 ──┼── Microsoft Elevate Azure Internship
+2023 ──┼── ServiceNow Virtual Internship
        │
-2024 ──┴── Started B.Tech + M.Tech in AI @ VIT Bhopal
+2022 ──┴── Started B.Tech + M.Tech in AI @ VIT Bhopal
 ```
 
 </details>
