@@ -231,13 +231,13 @@ DSA & CP                 ███████████████░░░�
 <br/>
 
 ```text
-2024 ──┬── Software Developer Intern
+2026 ──┬── Software Developer Intern
        │
-2023 ──┼── Microsoft Elevate Azure Internship
+2026 ──┼── ServiceNow Virtual Internship
        │
-2023 ──┼── ServiceNow Virtual Internship
+2025 ──┼── Microsoft Elevate Azure Internship
        │
-2022 ──┴── Started B.Tech + M.Tech in AI @ VIT Bhopal
+2024 ──┴── Started B.Tech + M.Tech in AI @ VIT Bhopal
 ```
 
 </details>
