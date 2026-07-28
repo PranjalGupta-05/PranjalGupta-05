@@ -71,7 +71,7 @@ status:     Open to interesting problems 🟢
 <br/>
 
 ## 🛠 Tech Stack
-
+<div align="center">
 <table width="100%">
 <tr>
 <td width="18%"><b>Languages</b></td>
@@ -94,6 +94,7 @@ status:     Open to interesting problems 🟢
 <td><img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" height="42"/></td>
 </tr>
 </table>
+</div>
 
 <br/>
 
