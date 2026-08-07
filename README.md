@@ -33,9 +33,9 @@
 </div>
 
 <br/>
-
+<div align="center">
 ## 💻 whoami
-
+</div>
 <table width="100%">
 <tr>
 <td width="75%" valign="center">
