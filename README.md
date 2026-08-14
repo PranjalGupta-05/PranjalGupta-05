@@ -255,7 +255,7 @@ DSA & CP                 ███████████████░░░�
 
 <div align="center">
 
-> *"Code is not just written to run. It's written to be understood, improved, and trusted."*
+>### *"Code is not just written to run. It's written to be understood, improved, and trusted."*
 
 </div>
 
