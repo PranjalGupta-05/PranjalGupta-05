@@ -272,7 +272,7 @@ DSA & CP                 ███████████████░░░�
 
 <br/><br/>
 
-**Keep Building. Keep Learning. Keep Growing.** 🚀
+### **Keep Building. Keep Learning. Keep Growing.** 🚀
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3C096C,60:240046,100:0D0221&height=110&section=footer" width="100%"/>
 
