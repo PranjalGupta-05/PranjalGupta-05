@@ -58,10 +58,11 @@ status:     Open to interesting problems 🟢
 
 | | |
 |---|---|
-| 🏅 | 250+ DSA problems solved |
+| 🏅 | 300+ DSA problems solved |
 | ☁️ | Microsoft Elevate Azure Intern |
 | 💼 | Software Developer Intern |
 | 🎓 | ServiceNow Virtual Intern |
+| 🎓 | Software Developer Intern at Heal Bharat Services |
 | 🚀 | 4+ AI / MERN projects shipped |
 
 </td>
