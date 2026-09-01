@@ -4,6 +4,10 @@
 
 <br/>
 
+<div align="center">
+  <img src="Dot%20Pattern%20Image.png" alt="Dot Pattern Portrait" width="600" />
+</div>
+
 <!-- terminal-style typing effect -->
 <table>
 <tr><td>
